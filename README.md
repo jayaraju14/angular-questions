@@ -1,6 +1,5 @@
 # Angular Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
 
 ### Table of Contents
 
@@ -200,7 +199,7 @@
         return "Hello, " + person;
     }
 
-    let user = "Sudheer";
+    let user = "jaya";
 
     document.body.innerHTML = greeter(user);
     ```
